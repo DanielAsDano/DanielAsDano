@@ -1,6 +1,6 @@
-# Hi there, I'm Daniel Cárdenas <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Daniel Cárdenas 👋
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## I'm a Computer Science Student & Self-Taught Backend Developer
 
@@ -8,19 +8,21 @@
 - 📚 I'm constantly learning backend technologies, cloud infrastructure, and software architecture
 - 💪🏼 Future Goals: Build scalable systems and keep growing as a software engineer
 
+
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify 🎧
 
 [![Bad Influence - Vlad Holiday](./assets/spotify_card.svg)](https://open.spotify.com/intl-es/track/2ZWTpKliXvVOtGn9tj9jdP)
 
+
 ---
+
 
 ### Contact with me 📝
 
-[<img align="left" alt="Daniel Cárdenas | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/daniel-cárdenas-982524336)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Cárdenas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cárdenas-982524336)
 
 <br />
 
@@ -60,6 +62,6 @@
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielAsDano&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
   </a>
   <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAsDano&theme=react&line_height=40&hide=css"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielAsDano&theme=react&line_height=40&hide=css"/>
   </a>
 </div>
